@@ -1,0 +1,5 @@
+-> Etats sous forme de chiffre séparés par une virgule : 1,2,3
+-> Alphabet séparé par une virgule : a,b,c
+-> Transitions sous forme source-symbole-destination séparé par une virgule : 1-a-2,2-b-1
+-> Etats initiaux séparés par une virgule : 1,2
+-> Etats finaux séparés par une virgule : 2,3
